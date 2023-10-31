@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Null",
+    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
+    "author": "Frenz",
+    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "id": "",
+    "endpoint": "http://www.boomlings.com/database/",
+    "timestampSuffix": " ago",
+    "demonList": "https://pointercrate.com/",
+    "downloadsDisabled": false,
+    "pinned": true
+  },
+  {
+  "name": "GDPH",
+    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
+    "author": "Jolo",
+    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "id": "gdph",
+    "endpoint": "https://gdph.ps.fhgdps.com////////",
+    "timestampSuffix": " ago",
+    "demonList": "https://pointercrate.com/",
+    "downloadsDisabled": false,
+    "pinned": false
+  },
+  {
+    "name": "ZGDPS",
+      "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
+      "author": "Zyann",
+      "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+      "id": "zgdps",
+      "endpoint": "https://zyannxyz.7m.pl/gd/gdpsfile/",
+      "timestampSuffix": " ago",
+      "demonList": "https://pointercrate.com/",
+      "downloadsDisabled": false,
+      "pinned": false
+    }
+]
