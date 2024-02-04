@@ -17,7 +17,7 @@
     "author": "Jolo",
     "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
     "id": "gdph",
-    "endpoint": "https://gdph.ps.fhgdps.com////////",
+    "endpoint": "https://gdph.ps.fhgdps.com////////database",
     "timestampSuffix": " ago",
     "demonList": "https://pointercrate.com/",
     "downloadsDisabled": false,
