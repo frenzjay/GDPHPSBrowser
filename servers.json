@@ -20,9 +20,6 @@
     "endpoint": "https://gdph.ps.fhgdps.com/////////",
     "timestampSuffix": " ago",
     "demonList": "https://pointercrate.com/",
-    "overrides": {
-      "downloadGjLevel": "downloadGjLevel22"
-    }
     "downloadsDisabled": false,
     "pinned": false
   },
